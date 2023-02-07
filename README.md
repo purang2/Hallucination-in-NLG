@@ -1,2 +1,2 @@
-# Hallucination in abssum
+# Hallucinations in abssum
 Hallucinations in Abstractive Summarization
