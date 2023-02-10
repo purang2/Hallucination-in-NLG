@@ -7,7 +7,7 @@ Hallucinations in Abstractive Summarization
 
 ### #1: Hallucination words ( or tokens ) Filtering & Weighting
 - **A Token-level Reference-free Hallucination Detection Benchmark for Free-form Text Generation ( T. Liu et al., ACL 2022 ) | [[Paper (link)]](https://arxiv.org/abs/2104.08704)**
-   - 데이터셋 HADES ( HAllucination DEtection dataSet ) 제안
+   - they present HADES ( HAllucination DEtection dataSet ) dataset.
 - **Controlling hallucinations at word level in data-to-text generation (C. Rebuffel et al., International Journal, 2021) | [[Paper]](https://link.springer.com/article/10.1007/s10618-021-00801-4)**
 - Detecting Hallucinated Content in Conditional Neural Sequence Generation (Zhou et al. (Carnegie Mellon Univ & FAIR), ACL-IJCNLP 21) | [[Paper]](https://aclanthology.org/2021.findings-acl.120.pdf)
 - Reducing Quantity Hallucinations in Abstractive Summarization (Zhao, Cohen and Webber (Univ of Edinburgh), Findings of EMNLP 20) | [[Paper]](https://arxiv.org/abs/2009.13312)
