@@ -13,6 +13,7 @@ Hallucinations in Abstractive Summarization
    -  propose a task to predict whether each token in the output sequence is hallucinated (not contained in the input) 
    -  collect new manually annotated evaluation sets for this task.
    -  introduce a method for learning to detect hallucinations using pretrained language models finetuned on synthetic data that includes automatically inserted hallucinations.
+   -  Experiments on **machine translation (MT) and abstractive summarization** demonstrate that our proposed approach consistently outperforms strong baselines on all benchmark datasets.
 - Reducing Quantity Hallucinations in Abstractive Summarization (Zhao, Cohen and Webber (Univ of Edinburgh), Findings of EMNLP 20) | [[Paper]](https://arxiv.org/abs/2009.13312)
 
 ### #2. Hallucination Similarity Metric
