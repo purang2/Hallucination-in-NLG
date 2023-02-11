@@ -21,6 +21,7 @@ Hallucinations in Abstractive Summarization
 
 ### #3: Cutting-edge Papers of Hallucination Problem (Abs sum or Text Generation)
 - On Faithfulness and Factuality in Abstractive Summarization (Maynez et al. (Google Research) ,ACL 20) | [[Paper]](https://aclanthology.org/2020.acl-main.173/)
+   - In this paper we have analyzed limitations of these models for abstractive document summarization and found that these models are highly prone to hallucinate content that is unfaithful to the input document.
 - Hallucinated but Factual! Inspecting the Factuality of Hallucinations in
     Abstractive Summarization (M.Cao, Dong and Cheung, ACL 22) | [[Paper]](https://aclanthology.org/2022.acl-long.236/)
 - **Survey of Hallucination in Natural Language Generation: Section 7 ⇒ ( Abs Sum) (Ji et al., ACM Computing Surveys, Nov 2022)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3571730)
