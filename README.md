@@ -10,6 +10,9 @@ Hallucinations in Abstractive Summarization
    - they present HADES ( HAllucination DEtection dataSet ) dataset.
 - **Controlling hallucinations at word level in data-to-text generation (C. Rebuffel et al., International Journal, 2021) | [[Paper]](https://link.springer.com/article/10.1007/s10618-021-00801-4)**
 - Detecting Hallucinated Content in Conditional Neural Sequence Generation (Zhou et al. (Carnegie Mellon Univ & FAIR), ACL-IJCNLP 21) | [[Paper]](https://aclanthology.org/2021.findings-acl.120.pdf)
+   -  propose a task to predict whether each token in the output sequence is hallucinated (not contained in the input) 
+   -  collect new manually annotated evaluation sets for this task.
+   -  introduce a method for learning to detect hallucinations using pretrained language models finetuned on synthetic data that includes automatically inserted hallucinations.
 - Reducing Quantity Hallucinations in Abstractive Summarization (Zhao, Cohen and Webber (Univ of Edinburgh), Findings of EMNLP 20) | [[Paper]](https://arxiv.org/abs/2009.13312)
 
 ### #2. Hallucination Similarity Metric
