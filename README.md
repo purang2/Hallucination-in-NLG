@@ -1,5 +1,6 @@
 # Hallucinations in abssum
-Hallucinations in Abstractive Summarization
+Hallucinations in Abstractive Summarization ***(A Research Internship Project at [@UNIST AIGS](https://sites.google.com/view/language-intelligence-lab))***
+
 
 
 ## Paper List
