@@ -2,7 +2,15 @@
 Hallucinations in Abstractive Summarization ***(A Research Internship Project at [@UNIST AIGS](https://sites.google.com/view/language-intelligence-lab))***
 
 
+> **🤔Can you be sure that Generative AIs (=Language models) generate reliable words/information?**
+
+> ***What if it doesn't?***
+
+
+
 ## 📝Brief Information
+
+
 
 In the general context outside of NLP, **hallucination is a psychological term referring to a particular type ofperception.** Blom [[14]](https://link.springer.com/book/10.1007/978-1-4419-1223-7) define ***hallucination as “a percept, experienced by a waking individual, in the absence of an appropriate stimulus from the extracorporeal world”.*** Simply put, a hallucination is an unreal perception that feels real.
 
