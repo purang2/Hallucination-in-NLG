@@ -2,7 +2,7 @@
 Hallucinations in Abstractive Summarization ***(A Research Internship Project at [@UNIST AIGS](https://sites.google.com/view/language-intelligence-lab))***
 
 
-> **🤔Can you be sure that Generative AIs (=Language models) generate reliable words/information?**
+> **🤔Can you be sure that Generative AIs (=Language models) generate reliable text / informations?**
 
 > ***What if it doesn't?***
 
