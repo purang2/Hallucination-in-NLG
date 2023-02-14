@@ -8,6 +8,8 @@ In the general context outside of NLP, **hallucination is a psychological term r
 
 The undesired phenomenon of *****“NLG models generating unfaithful or nonsensical text”***** shares similar characteristics with such psychological hallucinations – explaining the choice of terminology. Hallucinated text gives the impression of being fluent and natural despite being unfaithful and nonsensical.
 
+It appears to be grounded in the real context provided, although it is actually hard to specify or verify the existence of such contexts. Similar to psychological hallucination, which is hard to tell apart from other “real” perceptions, ***hallucinated text is also hard to capture at first glance.***
+
 ***- [Survey of Hallucination in Natural Language Generation (Z. Ji et al., 2022)](https://arxiv.org/pdf/2202.03629.pdf)-***
 
 
