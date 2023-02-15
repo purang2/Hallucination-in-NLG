@@ -20,5 +20,7 @@ There are 2 categories of hallucination in Abstractive Summarization (AbSum) tas
 
 In AbSum, the main 2 related survey papers ([[Huang et al., 2021]](https://arxiv.org/abs/2104.14839) , [[Ji et al., 2022]](https://arxiv.org/abs/2202.03629)) divide hallucination metrics into two categories like below.
 
-- **Unsupervised Metrics**: IE-based metric, NLI-based metric, QA-based metric.
-- **Semi-supervised Metrics**: Semi-supervised metrics are trained on the synthetic data generated from summarization datasets. Trained on these task-specific corpora, models can judge whether the generated summaries are hallucinatory. ***(from [Ji et al., 2022](https://arxiv.org/abs/2202.03629))*** 
+- **Unsupervised Metrics**: IE-based metric, NLI-based metric, QA-based metric. => **(🚧TBA)**
+- **Semi-supervised Metrics**: Semi-supervised metrics are trained on ***the synthetic data (same as figure) generated from summarization datasets.*** Trained on these task-specific corpora, models can judge whether the generated summaries are hallucinatory. ***(from [Ji et al., 2022](https://arxiv.org/abs/2202.03629))*** 
+> ![image](https://user-images.githubusercontent.com/46081500/218901003-69e5c770-e697-43b4-9f6a-a87396776662.png)
+
