@@ -4,6 +4,8 @@
 
 ### Hallucination in Abstractive Summarization
 
+> ***🤔What is hallucination & hallucinated contents in Abstractive Summarization?***
+
 There are 2 categories of hallucination in Abstractive Summarization (AbSum) task. (same as below.)
 
 - **Intrinsic Hallucination** : contradicted from source document.
