@@ -14,7 +14,7 @@ There are 2 categories of hallucination in Abstractive Summarization (AbSum) tas
 
 ### Hallucination Metrics 
 
-> ***🤔How to detect hallucinated content?***
+> ***🤔How to detect hallucinated contents?***
 
 In AbSum, the main 2 related survey papers ([[Huang et al., 2021]](https://arxiv.org/abs/2104.14839) , [[Ji et al., 2022]](https://arxiv.org/abs/2202.03629)) divide hallucination metrics into two categories like below.
 
