@@ -20,7 +20,10 @@ There are 2 categories of hallucination in Abstractive Summarization (AbSum) tas
 
 In AbSum, the main 2 related survey papers ([[Huang et al., 2021]](https://arxiv.org/abs/2104.14839) , [[Ji et al., 2022]](https://arxiv.org/abs/2202.03629)) divide hallucination metrics into two categories like below.
 
-- **Unsupervised Metrics**: IE-based metric, NLI-based metric, QA-based metric. => **(🚧TBA)**
+- **Unsupervised Metrics**: IE-based metrics, NLI-based metrics, QA-based metrics. => **(🚧TBA)**
+  - An Example of IE-based Metric from [Ji et al., 2022](https://arxiv.org/abs/2202.03629): ![image](https://user-images.githubusercontent.com/46081500/219263471-29cd33ca-51f2-48cf-8e7e-c8e4d859af8d.png)
+
+
 > An Example of QA-based Metric => [[FEQA: A Question Answering Evaluation Framework for Faithfulness
 Assessment in Abstractive Summarization, ACL 2020]](https://arxiv.org/pdf/2005.03754.pdf)
 > ![image](https://user-images.githubusercontent.com/46081500/218945714-4197f87f-350d-4e83-a248-4309826d43bc.png)
