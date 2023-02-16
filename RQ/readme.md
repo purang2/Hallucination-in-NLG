@@ -23,7 +23,7 @@ In AbSum, the main 2 related survey papers ([[Huang et al., 2021]](https://arxiv
 - **Unsupervised Metrics**: IE-based metrics, NLI-based metrics, QA-based metrics. => **(🚧TBA)**
   - An Example of IE-based Metric from [Ji et al., 2022](https://arxiv.org/abs/2202.03629): ![image](https://user-images.githubusercontent.com/46081500/219263471-29cd33ca-51f2-48cf-8e7e-c8e4d859af8d.png)
 
-  - An Example of NLI-based Metric (from [SummaC, Laban et al., TACL 2022](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00453/109470/SummaC-Re-Visiting-NLI-based-Models-for)]: ![image](https://user-images.githubusercontent.com/46081500/219264108-55ce27d0-ca0e-4cfa-ae29-1976e875ce5c.png)
+  - An Example of NLI-based Metric (from [Laban et al., TACL 2022](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00453/109470/SummaC-Re-Visiting-NLI-based-Models-for)): ![image](https://user-images.githubusercontent.com/46081500/219264108-55ce27d0-ca0e-4cfa-ae29-1976e875ce5c.png)
 
 
 > An Example of QA-based Metric => [[FEQA: A Question Answering Evaluation Framework for Faithfulness
