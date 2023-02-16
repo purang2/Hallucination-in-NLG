@@ -16,6 +16,11 @@ There are 2 categories of hallucination in Abstractive Summarization (AbSum) tas
 
 ### Hallucination Metrics 
 
+> If you can't measure it, you can't improve it - Peter Drucker  
+> 측정할 수 없는 것은 개선시킬 수 없다. - 피터 드러커  
+> What Peter Drucker, the father of business administration, said also applies to NLP model learning.  
+> -Ref from https://jiho-ml.com/weekly-nlp-50/-
+
 > ***🤔How to detect hallucinated contents?***
 
 In AbSum, the main 2 related survey papers ([[Huang et al., 2021]](https://arxiv.org/abs/2104.14839) , [[Ji et al., 2022]](https://arxiv.org/abs/2202.03629)) divide hallucination metrics into two categories like below.
