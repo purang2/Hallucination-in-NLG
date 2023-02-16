@@ -34,6 +34,8 @@ In AbSum, the main 2 related survey papers ([[Huang et al., 2021]](https://arxiv
 > An Example of QA-based Metric => [[FEQA: A Question Answering Evaluation Framework for Faithfulness
 Assessment in Abstractive Summarization, ACL 2020]](https://arxiv.org/pdf/2005.03754.pdf)
 > ![image](https://user-images.githubusercontent.com/46081500/218945714-4197f87f-350d-4e83-a248-4309826d43bc.png)
+> [QuestEval (EMNLP 21)](https://aclanthology.org/2021.emnlp-main.529/): ![image](https://user-images.githubusercontent.com/46081500/219269876-c4fc0d98-3322-4c2c-86dd-fb9f09d532e9.png)
+
 
 
 - **Semi-supervised Metrics**: Semi-supervised metrics are trained on ***the synthetic data (same as figure) generated from summarization datasets.*** Trained on these task-specific corpora, models can judge whether the generated summaries are hallucinatory. ***(from [Ji et al., 2022](https://arxiv.org/abs/2202.03629))*** 
