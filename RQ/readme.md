@@ -1,8 +1,8 @@
 
-## A List of Research Questions
+# A List of Research Questions
 
 
-### Hallucination in Abstractive Summarization
+## Hallucination in Abstractive Summarization
 
 > ***🤔What is hallucination & hallucinated contents in Abstractive Summarization?***
 
@@ -14,7 +14,7 @@ There are 2 categories of hallucination in Abstractive Summarization (AbSum) tas
 ![image](https://user-images.githubusercontent.com/46081500/218894853-2f05fe57-8439-4e0f-a7b9-e28be7a2c7d5.png)
 
 
-### Hallucination Metrics 
+## Hallucination Metrics 
 
 > If you can't measure it, you can't improve it - Peter Drucker  
 > 측정할 수 없는 것은 개선시킬 수 없다. - 피터 드러커  
@@ -43,4 +43,9 @@ Assessment in Abstractive Summarization, ACL 2020]](https://arxiv.org/pdf/2005.0
 
 
 
-### 
+## Hallucination Mitigation (Methods)
+
+### Using Knowledge Graph
+***[ [Paper] Faithful to the Document or to the World? Mitigating Hallucinations via Entity-linked Knowledge in Abstractive Summarization (Dong, Wieting and Verga / 2022)](https://arxiv.org/abs/2204.13761)***
+![image](https://user-images.githubusercontent.com/46081500/219992162-433720b7-0da8-4e74-9f66-61b84471fbff.png)
+
